@@ -167,7 +167,8 @@ Removes an existing download status listener.
 <br>
 
 ## Example:
-[Example project](https://github.com/SudoPlz/sp-react-native-in-app-updates/blob/v1/Example/App.tsx#L38)
+[Example project](https://github.com/SudoPlz/sp-react-native-in-app-updates/blob/master/example/src/App.tsx)  
+[Example project (with Snackbar)](https://github.com/SudoPlz/sp-react-native-in-app-updates/blob/master/example/src/AppWithSnackbar.js)
 <br>
 <br>
 
